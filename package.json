@@ -1,0 +1,15 @@
+{
+  "name": "vocabulary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^79.0.0",
+    "nightwatch": "^1.3.2"
+  }
+}
