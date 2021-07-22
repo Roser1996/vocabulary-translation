@@ -13,6 +13,6 @@
     "chromedriver": "^79.0.0",
     "nightwatch": "^1.3.2",
     "prettier": "1.19.1",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
